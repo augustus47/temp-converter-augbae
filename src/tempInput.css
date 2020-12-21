@@ -1,0 +1,12 @@
+.tempInput{
+    display: grid;
+    place-items: center;
+}
+input{
+    font-size: 30px;
+    border-radius: 5px;
+    padding: 10px;
+}
+h2{
+    color:white;
+}
